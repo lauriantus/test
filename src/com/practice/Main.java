@@ -33,5 +33,6 @@ public class Main {
         map.put(3,"str");
         map.put(3,"str");
         System.out.println("Map: " + map);
+
     }
 }
